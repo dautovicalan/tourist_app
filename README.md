@@ -1,4 +1,4 @@
-# practical_class_01
+# Tourist App
 
 A new Flutter project.
 
